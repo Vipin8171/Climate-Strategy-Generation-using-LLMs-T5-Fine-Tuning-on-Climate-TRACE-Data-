@@ -78,7 +78,7 @@ Long-term strategy: Transition to renewable-intensive smelting and advanced low-
 │
 ├── climate_finetuning.ipynb             # Main fine-tuning pipeline
 │
-├── t5_climate_strategy_final/           # Saved fine-tuned model
+├── Data preprocessing
 │
 └── README.md                            # Project documentation (this file)
 ```
