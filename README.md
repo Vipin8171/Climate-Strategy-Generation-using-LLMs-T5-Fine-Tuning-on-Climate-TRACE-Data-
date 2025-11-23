@@ -70,14 +70,13 @@ Long-term strategy: Transition to renewable-intensive smelting and advanced low-
 ```
 📁 Climate-Strategy-LLM/
 │
-├── data/                               # Raw downloaded data (Climate TRACE)
+├── result images
 ├── processed_data/                      # Cleaned train/val/test CSVs
 │   ├── train.csv
 │   ├── val.csv
 │   └── test.csv
 │
 ├── climate_finetuning.ipynb             # Main fine-tuning pipeline
-├── inference_compare.ipynb              # Base vs Fine-tuned model comparison
 │
 ├── t5_climate_strategy_final/           # Saved fine-tuned model
 │
